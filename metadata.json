@@ -1,0 +1,6 @@
+{
+  "name": "Household Expense & Bill Tracker",
+  "description": "An offline-first household tracker, custom price history tracker, budget engine, utility bill tracker, and medicine log.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
